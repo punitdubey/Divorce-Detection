@@ -1,7 +1,8 @@
 # Divorce-Detection
+The project is about predict the possibility of a divorce of a given couple.
 
 ## Libraries required:
-Just require pandas, scikit-learn and matplotlib librarires for runing this project.
+Just require pandas, scikit-learn and matplotlib libraries for running this project.
 
 ## About data
-The datast contatins the divorce of the couples with the features such as age, marriage duration, education and various others of the couple.
+The dataset contatins the divorce data of the couples with the features such as age, marriage duration, education and various others of both partners.
