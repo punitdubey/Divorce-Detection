@@ -1,0 +1,42 @@
+Col_names_english,Descriptions_english
+Divorce_date,Divorce Record Date
+Type_of_divorce,Necessary when one of the parties does not accept the divorce; Voluntary when both parties agree
+Nationality_partner_man,Nationality of the divorced
+DOB_partner_man,Divorced date of birth
+Place_of_birth_partner_man,Place of birth of the divorced person
+Birth_municipality_of_partner_man,Municipality of birth of the divorced person
+Birth_federal_partner_man,Federal Entity of birth of the divorced person
+Birth_country_partner_man,Country of birth of the divorced person
+Age_partner_man,Divorced age
+Residence_municipality_partner_man,Municipality of the domicile where the divorced person lives
+Residence_federal_partner_man,Federal entity of the domicile that the divorced person lives
+Residence_country_partner_man,Pa√ ≠ s of the domicile where the divorced person lives
+Monthly_income_partner_man_peso,Monthly income of the divorced person in pesos
+Occupation_partner_man,Occupation of the divorced person
+Place_of_residence_partner_man,Place of residence where the divorced person lives
+Nationality_partner_woman,Nationality of the divorced
+DOB_partner_woman,Date of birth of the divorcee
+DOB_registration_date_partner_woman,Birth registration date of the divorcee
+Place_of_birth_partner_woman,Place of birth of the divorced
+Birth_municipality_of_partner_woman,Municipality of birth of the divorced
+Birth_federal_partner_woman,Entity of birth of the divorced
+Birth_country_partner_woman,Pa√ ≠ s of birth of the divorced woman
+Age_partner_woman,Age of the divorced
+Place_of_residence_partner_woman,Place of residence where the divorced woman lives
+Residence_municipality_partner_woman,Municipality of the domicile where the divorced person lives
+Residence_federal_partner_woman,Federal entity of the domicile that the divorced person lives
+Residence_country_partner_woman,Pa√ ≠ s of the domicile where the divorced woman lives
+Occupation_partner_woman,Occupation of the divorced woman
+Monthly_income_partner_woman_peso,Monthly income of the divorced woman in pesos
+Date_of_marriage,Date of the marriage certificate of the divorced
+Marriage_certificate_place,Locality in which the marriage certificate of the divorced was drawn up
+Marriage_certificate_municipality,Municipality in which the marriage certificate of the divorced was drawn up
+Marriage_certificate_federal,Federal entity in which the marriage certificate of the divorced was raised
+Level_of_education_partner_man,Schooling of the divorced
+Employment_status_partner_man,Divorced job
+Level_of_education_partner_woman,Schooling of the divorced
+Employment_status_partner_woman,Work of the divorcee
+Marriage_duration,Duration of marriage
+Marriage_duration_months,Duration in months
+Num_Children,Children during marriage
+Custody,na
